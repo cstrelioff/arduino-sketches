@@ -2,7 +2,7 @@
 
 A repository for my arduino sketches. I have an unusual setup on Ubuntu 14.04,
 using make instead of the standard Arduino IDE-- if you'd like to read about it
-[checkout my blog post](http://chrisstrelioff.ws/sandbox/).
+[checkout my blog post](http://chrisstrelioff.ws/sandbox/2015/12/08/arduino_on_ubuntu_14_04_without_the_arduino_ide.html).
 
 ## Using the examples
 
